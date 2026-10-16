@@ -1,6 +1,6 @@
 Name:		python-torchsde
 Version:	0.2.6
-Release:	1
+Release:	2
 Summary:	SDE solvers and stochastic adjoints in PyTorch
 License:	Apache-2.0
 Group:		Development/Python
